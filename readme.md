@@ -1,8 +1,5 @@
-## Case Study
+# Churn prediction
 
-Today we are going to use all the skills we have learnt in the
-past 2 weeks to tackle a real problem in the industry. The problem
-is churn prediction with a ride-sharing company in San Francisco.
-Since the data is sourced from a real company, we ask you not to share
-the dataset. See more about the problem in [group.md](group.md). You can choose
-to work individually or in groups of 4 or fewer.
+This folder contains an analysis of churn for users of an Uber-like ride-sharing app. A detailed and commented report on this analysis can be found [here](www.thefutureofself.com/2016/05/case-study-churn-prediction-in-ride-sharing-app/). The full code used for the analysis is located in ChurnPrediction.ipynb.
+
+Data has been provided by Galvanize, Inc. in the context of the Data Science Immersive in SoMa. It may contain sensitive information and has therefore been removed from this repository.
